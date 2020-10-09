@@ -4,7 +4,7 @@
 [![Build Status](https://github.com/dragonfire535/xiao/workflows/Lint/badge.svg?branch=master&event=push)](https://github.com/dragonfire535/xiao/actions)
 [![Donate on PayPal](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/dragonfire535)
 [![Discord](https://discordapp.com/api/guilds/252317073814978561/embed.png)](https://discord.gg/mTr83zt)
-
+[![Run on Repl.it](https://repl.it/badge/github/dragonfire535/xiao)](https://repl.it/github/dragonfire535/xiao)
 Xiao is a Discord bot coded in JavaScript with
 [discord.js](https://discord.js.org/) using the
 [Commando](https://github.com/discordjs/Commando) command framework. With over
